@@ -3,7 +3,7 @@
 Repositório do meu site pessoal onde documento a minha evolução como estudante de tecnologia.
 
 ##  Foco Atual
-* **Estudos:** HTML5, CSS3 e JavaScript.
+* **Estudos:** HTML5, CSS e JavaScript.
 * **Projetos:** Manutenção de Hardware e Suporte na **Tetyc Group**.
 * **Educação:** Aluno Técnico na **FAETEC**.
 
