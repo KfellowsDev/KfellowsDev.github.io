@@ -8,7 +8,7 @@ Repositório do meu site pessoal onde documento a minha evolução como estudant
 * **Educação:** Aluno Técnico na **FAETEC**.
 
  Links Oficiais
-- *Site:** [kfellowsdev.github.io](https://kfellowsdev.github.io)
+- **Site:** [kfellowsdev.github.io](https://kfellowsdev.github.io)
 - **Instagram:** [@dev.fellows](https://instagram.com/dev.fellows)
 - **E-mail:** dev.kfellows@gmail.com
 
